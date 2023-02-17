@@ -2,6 +2,8 @@
 A one-click Unlocker for VMWare Player and Workstation.
 
 **A C++ port of the [DrDonk Python Unlocker](https://github.com/DrDonk/unlocker)**
+**Thanks paolo-projects **
+**I forked this to add a vmx patcher if parameters change.**
 
 ## The tool
 
